@@ -47,6 +47,6 @@ Haz clic derecho en el ícono de la bandeja para Restaurar la ventana o Salir de
 Este proyecto está distribuido bajo la Licencia MIT.
 
 ## 🔥 Partner 15% discount on your purchases on [Website]([https://cprot.net/](https://www.neohosting.cloud/))
-![partner]([https://cdn.modrinth.com/data/cached_images/b93aa3ea2ac405d138954f35aa09c4177dd7880b.jpeg](https://i.postimg.cc/y6rcMgxB/image.png))
+![partner](https://i.postimg.cc/y6rcMgxB/image.png)
 
 Copyright (c) 2025 xGuard / [https://xguard.es/terms](https://xguard.es/terms)
